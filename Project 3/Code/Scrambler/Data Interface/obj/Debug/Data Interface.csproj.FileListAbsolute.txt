@@ -1,0 +1,5 @@
+c:\users\dwight vdv\documents\visual studio 2015\Projects\Scrambler\Data Interface\bin\Debug\Data Interface.dll
+c:\users\dwight vdv\documents\visual studio 2015\Projects\Scrambler\Data Interface\bin\Debug\Data Interface.pdb
+c:\users\dwight vdv\documents\visual studio 2015\Projects\Scrambler\Data Interface\obj\Debug\Data Interface.dll
+c:\users\dwight vdv\documents\visual studio 2015\Projects\Scrambler\Data Interface\obj\Debug\Data Interface.pdb
+C:\Users\Dwight VdV\Documents\Visual Studio 2015\Projects\Scrambler\Data Interface\obj\Debug\Data Interface.csprojResolveAssemblyReference.cache

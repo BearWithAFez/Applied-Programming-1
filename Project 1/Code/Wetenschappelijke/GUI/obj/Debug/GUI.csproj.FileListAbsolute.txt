@@ -1,0 +1,35 @@
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\GUI.exe.config
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\GUI.exe
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\GUI.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\obj\Debug\GUI.exe
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\obj\Debug\GUI.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\Logic.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\Data.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\GlobalDataFormats.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\Logic.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\Data.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\GlobalDataFormats.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GUI\bin\Debug\Recources\noten.csv
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Wetenschappelijke\GUI\bin\Debug\GUI.exe.config
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Wetenschappelijke\GUI\obj\Debug\GUI.exe
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Wetenschappelijke\GUI\obj\Debug\GUI.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\GUI.exe.config
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\obj\Debug\GUI.exe
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\obj\Debug\GUI.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\Recources\noten.csv
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\GUI.exe
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\GUI.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\Logic.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\Data.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\GlobalDataFormats.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\Logic.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\Data.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\bin\Debug\GlobalDataFormats.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache

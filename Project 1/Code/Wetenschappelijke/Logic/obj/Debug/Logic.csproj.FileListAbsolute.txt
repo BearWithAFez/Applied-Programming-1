@@ -1,0 +1,18 @@
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\bin\Debug\Logic.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\bin\Debug\Logic.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\bin\Debug\Data.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\bin\Debug\GlobalDataFormats.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\bin\Debug\Data.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\bin\Debug\GlobalDataFormats.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\obj\Debug\Logic.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\Logic\obj\Debug\Logic.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\bin\Debug\Logic.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\bin\Debug\Logic.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\bin\Debug\Data.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\bin\Debug\GlobalDataFormats.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\bin\Debug\Data.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\bin\Debug\GlobalDataFormats.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\obj\Debug\Logic.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\Logic\obj\Debug\Logic.pdb

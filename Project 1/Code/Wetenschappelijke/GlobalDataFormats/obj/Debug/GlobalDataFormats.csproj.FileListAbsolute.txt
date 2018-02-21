@@ -1,0 +1,10 @@
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GlobalDataFormats\bin\Debug\GlobalDataFormats.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GlobalDataFormats\bin\Debug\GlobalDataFormats.pdb
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GlobalDataFormats\obj\Debug\GlobalDataFormats.csprojResolveAssemblyReference.cache
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GlobalDataFormats\obj\Debug\GlobalDataFormats.dll
+C:\Users\Dwightjeuh\Source\Repos\CSharpOO1516-Dwight.VanderVelpen\Wetenschappelijke\GlobalDataFormats\obj\Debug\GlobalDataFormats.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GlobalDataFormats\bin\Debug\GlobalDataFormats.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GlobalDataFormats\bin\Debug\GlobalDataFormats.pdb
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GlobalDataFormats\obj\Debug\GlobalDataFormats.csprojResolveAssemblyReference.cache
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GlobalDataFormats\obj\Debug\GlobalDataFormats.dll
+C:\Users\Dwightjeuh\Source\Repos\1516WT1VanderVelpenDwight\Project 1\Code\Wetenschappelijke\GlobalDataFormats\obj\Debug\GlobalDataFormats.pdb
